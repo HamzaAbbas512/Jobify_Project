@@ -1,0 +1,6 @@
+streamlit==1.25.0   # Adjust version based on your installed version
+requests==2.31.0    # Example version, can be updated
+PyPDF2==3.0.1       # Example version for PDF extraction
+python-dotenv==1.0.0  # For environment variable loading
+google-api-python-client==2.92.0  # Google API Client
+google-generativeai  # Placeholder, ensure this package is the correct name
